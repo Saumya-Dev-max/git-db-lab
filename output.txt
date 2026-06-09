@@ -1,0 +1,9 @@
+CREATE DATABASE
+CREATE ROLE
+GRANT
+=================================
+Database Created Successfully
+Database Name : college
+Username      : college_user
+Password      : /VndwdHvMyIKeNp5
+=================================
